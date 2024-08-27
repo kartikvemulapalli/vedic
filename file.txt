@@ -1,0 +1,14 @@
+1. Install the NODE.JS
+
+2. Creating the NPM packager and package.json file 
+    ***** npm init *****
+
+3. Install all the required packages like Expresss,mongoose,body-parser,nodemon
+   *** npm install express body-parser mongoose nodemon
+
+4. To run the application 
+   *** node index.js ****
+
+5. Run the above commands to have the output
+
+6. To see the results just go to browser and type this **** localhost:3000 ***
